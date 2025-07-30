@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![echoforge](https://github.com/user-attachments/assets/c628a217-5202-4eb2-8c2c-f05a08fd1738)
+![ef copy 2](https://github.com/user-attachments/assets/34a1245e-8335-430d-845f-2de16e67c51e)
 
 **AI-Powered Multilingual Audio Transcription & Analysis Platform**
 
