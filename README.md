@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![echo-forge Logo](https://via.placeholder.com/200x100/4a90e2/ffffff?text=echo-forge)
+![echoforge](https://github.com/user-attachments/assets/c628a217-5202-4eb2-8c2c-f05a08fd1738)
 
 **AI-Powered Multilingual Audio Transcription & Analysis Platform**
 
