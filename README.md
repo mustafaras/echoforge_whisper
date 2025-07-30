@@ -1,4 +1,4 @@
-# 🔥 echo-forge
+# 🔥 Echo-Forge
 
 <div align="center">
 
