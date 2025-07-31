@@ -1,6 +1,6 @@
-# 🔥 Echo-Forge v0.1 by Whisper AI - Multilingual
-
 <div align="center">
+
+<h1>🔥 Echo-Forge v0.1 by Whisper AI - Multilingual</h1>
 
 ![ef copy 2](https://github.com/user-attachments/assets/34a1245e-8335-430d-845f-2de16e67c51e)
 
