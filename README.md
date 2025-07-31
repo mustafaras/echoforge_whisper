@@ -29,6 +29,10 @@
 
 Whether you're transcribing meetings, lectures, interviews, or YouTube videos, echo-forge delivers professional-grade results with comprehensive AI analysis. The platform combines cutting-edge speech recognition with advanced language models to provide not just transcription, but deep insights into your audio content.
 
+
+https://github.com/user-attachments/assets/a3de3f0f-b88c-48c8-88ed-9f0a8608469a
+
+
 ### ✨ Key Features
 
 - **🌍 Multilingual Support**: Turkish-English interface with 12+ transcription languages
