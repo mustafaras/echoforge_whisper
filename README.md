@@ -199,7 +199,7 @@ python run_multilingual.py
 - **Persistent Settings**: User language preferences saved across sessions
 
 #### Transcription Languages  
-**Supported Languages**: Turkish, English, Spanish, French, German, Italian, Portuguese, Russian, Japanese, Korean, Chinese (Simplified), Arabic
+**Supported Languages**: Turkish, English, Spanish, Dutch, German, Italian, Portuguese, Russian, Japanese, Korean, Chinese (Simplified), Arabic
 
 **Language Features**:
 - Auto-detection for mixed-language content
