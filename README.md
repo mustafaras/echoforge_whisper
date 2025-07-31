@@ -1,4 +1,4 @@
-# 🔥 Echo-Forge
+# 🔥 Echo-Forge v0.1 by Whisper AI - Multilingual
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ## 🌟 Overview
 
-**echo-forge** is an advanced audio transcription platform powered by OpenAI's Whisper-1 and GPT-4 models. It provides high-quality transcription, intelligent analysis, and multilingual support through a modern web interface.
+**Echo-Forge** is an advanced audio transcription platform powered by OpenAI's Whisper-1 and GPT-4 models. It provides high-quality transcription, intelligent analysis, and multilingual support through a modern web interface.
 
 Whether you're transcribing meetings, lectures, interviews, or YouTube videos, echo-forge delivers professional-grade results with comprehensive AI analysis. The platform combines cutting-edge speech recognition with advanced language models to provide not just transcription, but deep insights into your audio content.
 
@@ -50,6 +50,7 @@ Whether you're transcribing meetings, lectures, interviews, or YouTube videos, e
 - **Medical Records**: Clinical interview transcription with specialized terminology
 
 ## 🚀 Quick Start
+<img width="2558" height="1275" alt="image" src="https://github.com/user-attachments/assets/0eca0d7d-ff60-4ac2-a166-4268e070e638" />
 
 ### 📋 System Requirements
 - **Python**: 3.8+ (Recommended: Python 3.10+)
@@ -187,7 +188,7 @@ python run_multilingual.py
 ### 🌐 Multilingual System
 
 #### Interface Languages
-- **🇹🇷 Turkish (Türkçe)**: Complete native interface with 1,200+ translations
+- **🇹🇷 Turkish (Türkçe)**: Complete native interface with 12 direct languages translations
 - **🇺🇸 English**: Full international support with technical terminology
 - **Real-time Language Switching**: Instant UI transformation without page refresh
 - **Context-Aware Translations**: Natural expressions and cultural considerations
@@ -252,6 +253,8 @@ python run_multilingual.py
 - **⭐ Smart Favorites System**: One-click favoriting with organized collections
 - **📤 Data Export**: Complete database export in JSON/CSV formats
 - **🗑️ Intelligent Cleanup**: Automatic cleanup with configurable retention policies
+<img width="2160" height="1244" alt="image" src="https://github.com/user-attachments/assets/84310e84-07bf-449b-bc35-d833264a00f8" />
+
 
 #### Real-Time Analytics Dashboard
 - **📈 Usage Statistics**: Processing metrics, time analysis, success rates
@@ -262,6 +265,8 @@ python run_multilingual.py
 ## 🎛️ Advanced Configuration
 
 ### Sidebar Control Panel
+<img width="496" height="1281" alt="image" src="https://github.com/user-attachments/assets/3d241663-d0da-4cb5-9d9f-655967465147" />
+
 
 #### **🔌 API Status & Health Monitoring**
 - **Real-Time Status**: Live connection status with OpenAI services
